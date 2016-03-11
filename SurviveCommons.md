@@ -1,4 +1,4 @@
-![Link}(https://github.com/KeyboardNerd/survive-commons.git)
+![Link](https://github.com/KeyboardNerd/survive-commons.git)
 
 2 contributors
 
