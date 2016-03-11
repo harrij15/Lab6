@@ -9,3 +9,5 @@ First commit: Initial commit
 Latest commit: front-end finished (Dec 1, 2015)
 
 Branch: master (Jun 18, 2015)
+
+![gitstats](https://github.com/harrij15/Lab6/blob/master/survivecommonsgitstats.png)
