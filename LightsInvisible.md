@@ -22,4 +22,7 @@ the current branches: master
 #####[https://youtu.be/N4J2c5gRK1M](https://youtu.be/N4J2c5gRK1M)#####
 
 
+Is there a leader for each of the five projects? Who would you call the leader?
 
+  since there is only one contributor, Taoran (Tom) Li must be the leader
+  
