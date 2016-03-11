@@ -15,7 +15,7 @@ the current branches: master
 
 ####GitStats####
 
-
+![LightsInvisible_GitStats](LightsInvisible_GitStats.png)
 
 ####gource video:####
 
