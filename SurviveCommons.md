@@ -16,4 +16,5 @@ According to GitHub, there are only 2 contributors and 47172 lines of code, but 
 and 258128 lines of code, so there is a pretty significant difference.
 
 ![gource](https://www.youtube.com/watch?v=XDeZGQJjZIs&feature=youtu.be)
+
 Leader: KeyboardNerd
