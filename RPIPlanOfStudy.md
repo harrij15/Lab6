@@ -12,4 +12,4 @@ Branch: master
 
 ![gitstats](https://github.com/harrij15/Lab6/blob/master/gitstatsplan.png)
 
-According to GitHub, there are 3 contributors and 3848 lines. In gitstats, there are 4 contributors and 3739 lines. This is interesting, since there are more contributors but less lines.
+According to GitHub, there are 3 contributors and 3848 lines. 
