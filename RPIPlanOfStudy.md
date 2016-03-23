@@ -9,3 +9,5 @@ First commit: Add details to README (Oct 8, 2015)
 Latest commit: Fix validation not highlighting invalid courses (Mar 9, 2016)
 
 Branch: master
+
+![gitstats](https://github.com/harrij15/Lab6/blob/master/gitstatsplan.png)
