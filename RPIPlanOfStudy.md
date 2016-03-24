@@ -13,3 +13,5 @@ Branch: master
 ![gitstats](https://github.com/harrij15/Lab6/blob/master/gitstatsplan.png)
 
 According to GitHub, there are 3 contributors and 3848 lines. 
+
+![gource](https://www.youtube.com/watch?v=TF0onZwT6YQ)
