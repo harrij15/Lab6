@@ -15,3 +15,5 @@ Branch: master
 According to GitHub, there are 3 contributors and 3848 lines. 
 
 ![gource](https://www.youtube.com/watch?v=TF0onZwT6YQ)
+
+Leader: Nicholas Thomson
