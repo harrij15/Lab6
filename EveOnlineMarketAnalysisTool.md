@@ -11,5 +11,6 @@
 	* master
 
 ![GitStats](http://puu.sh/nCWl1/9cd2ba7a6f.png)
+
 The only difference between the above and gitstats is that gitstats shows 10 contributors instead of 7, one of which was repeated.  
 
