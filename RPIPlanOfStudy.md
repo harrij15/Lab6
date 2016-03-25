@@ -1,4 +1,4 @@
-![RPI Plan Of Study](https://github.com/rpiyaps/plan-of-study.git)
+[RPI Plan Of Study](https://github.com/rpiyaps/plan-of-study.git)
 
 Contributors: 3
 
