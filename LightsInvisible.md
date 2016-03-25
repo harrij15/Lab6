@@ -17,6 +17,8 @@ the current branches: master
 
 ![LightsInvisible_GitStats](LightsInvisible_GitStats.png)
 
+There are 106254 lines and only 1 contributor on GitHub, but GitStats states that there are 285304 lines and 2 contributors.
+
 ####gource video:####
 
 #####[https://youtu.be/N4J2c5gRK1M](https://youtu.be/N4J2c5gRK1M)#####
