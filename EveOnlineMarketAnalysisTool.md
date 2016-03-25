@@ -14,3 +14,5 @@
 
 The only difference between the above and gitstats is that gitstats shows 10 contributors instead of 7, one of which was repeated.  
 
+#[Youtube gource link](https://youtu.be/fVkju6Wuvr4)
+
