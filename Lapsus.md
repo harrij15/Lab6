@@ -1,6 +1,6 @@
 #LAPSUS STATS
 
-![Lapsus Repo](https://github.com/rickrizzo/lapsus)
+[Lapsus Repo](https://github.com/rickrizzo/lapsus)
 
 8 contributors
 
@@ -16,6 +16,6 @@ current branches: master and pullao
 
 GitHub says that there are 590 lines of code and 8 contributors, but GitStats says that there are 595 lines and 11 contributors.
 
-![gource youtube](https://www.youtube.com/watch?v=EOCIfrZfAVo&feature=youtu.be)
+[gource youtube](https://www.youtube.com/watch?v=EOCIfrZfAVo&feature=youtu.be)
 
 Leader: Rob Russo
