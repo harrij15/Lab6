@@ -1,5 +1,7 @@
 #LAPSUS STATS
 
+![Lapsus Repo](https://github.com/rickrizzo/lapsus)
+
 8 contributors
 
 590 lines of code
