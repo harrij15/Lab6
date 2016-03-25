@@ -15,3 +15,7 @@ current branches: master and pullao
 ![Gitstats](https://github.com/harrij15/Lab6/blob/master/gitstatslapsus.png)
 
 GitHub says that there are 590 lines of code and 8 contributors, but GitStats says that there are 595 lines and 11 contributors.
+
+![gource youtube](https://youtu.be/78f4tR-bAcc)
+
+Leader: Rob Russo
