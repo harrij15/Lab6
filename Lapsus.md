@@ -16,6 +16,6 @@ current branches: master and pullao
 
 GitHub says that there are 590 lines of code and 8 contributors, but GitStats says that there are 595 lines and 11 contributors.
 
-![gource youtube](https://youtu.be/78f4tR-bAcc)
+![gource youtube](https://www.youtube.com/watch?v=EOCIfrZfAVo&feature=youtu.be)
 
 Leader: Rob Russo
